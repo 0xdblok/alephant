@@ -59,7 +59,7 @@ export default function Hero() {
 
             <img
               loading="lazy"
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/76e35de4ce0f7b99308bc5368757e0126936dc46d49163a42a40e1165c27540f?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3"
+              src=""
               className="object-contain mt-5 rounded-xl aspect-[1.04] w-[26px]"
               alt="Decorative icon"
             />
@@ -89,9 +89,9 @@ export default function Hero() {
         <p className="mt-36 text-xl font-medium leading-none text-white max-md:mt-10">
           OFFICIAL LINKS:
         </p>
-        <div className="flex gap-3 mt-4 w-64 max-w-full">
+        <div className="flex gap-3 mt-4 ml-8 w-64 max-w-full flex justify-center items-center">
           <div>
-            <a href="#" className="text-blue-600">
+            <a href="#" className="text-blue-600 -4">
               <Image
                 src={telegram}
                 alt="Social media icon 2"

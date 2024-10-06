@@ -33,8 +33,6 @@ function FAQ() {
             ))}
           </div>
         </div>
-
-        <GetInvolvedSection />
       </section>
     </main>
   );
