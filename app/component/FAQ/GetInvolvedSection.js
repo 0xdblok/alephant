@@ -2,7 +2,7 @@ import React from "react";
 
 function GetInvolvedSection() {
   return (
-    <section className="mt-40 max-md:mt-10">
+    <section className=" arbutus-regular  mt-40 max-md:mt-10">
       <h2 className="text-5xl leading-none text-gray-900 max-md:text-4xl">
         Get Involved!
       </h2>

@@ -9,7 +9,7 @@ export default function Hero() {
     <header className="flex overflow-hidden flex-col items-center px-20 pt-5  w-full bg-blue-600 max-md:px-5 max-md:max-w-full">
       <div className="flex flex-col items-center max-w-full w-[1024px]">
         <nav className="flex flex-wrap gap-5 justify-between items-start self-stretch px-0.5 pt-1 pb-7 w-full font-bold text-white max-md:max-w-full">
-          <div className="flex flex-wrap gap-7 mt-1 text-base">
+          <div className="flex flex-wrap gap-7 mt-1 text-base  ">
             <div className="grow">CONTRACT</div>
             <div className="basis-auto">WHITEPAPER</div>
             <div className="basis-auto">COMMUNITY MEMES</div>
@@ -39,10 +39,10 @@ export default function Hero() {
             />
           </div>
         </div>
-        <h1 className="mt-11 text-9xl text-center text-white leading-[128px] max-md:mt-10 max-md:max-w-full max-md:text-4xl max-md:leading-[49px]">
+        <h1 className=" arbutus-regular  mt-11 text-9xl text-center text-white leading-[128px] max-md:mt-10 max-md:max-w-full max-md:text-4xl max-md:leading-[49px]">
           ALEPHANT <br /> on SUI
         </h1>
-        <p className="mt-10 text-3xl font-semibold leading-tight text-center text-white">
+        <p className=" arbutus-regular  mt-10 text-3xl font-semibold leading-tight text-center text-white">
           THE LEGEND LIVES ON
         </p>
         <a
@@ -50,10 +50,10 @@ export default function Hero() {
           className="px-16 py-5 mt-16 w-60 max-w-full text-sm font-semibold leading-loose text-center text-blue-600 bg-white border border-solid border-slate-200 rounded-[53px] max-md:px-5 max-md:mt-10">
           Buy Now
         </a>
-        <p className="mt-7 text-xs leading-none text-center text-white">
+        <p className=" arbutus-regular  mt-7 text-xs leading-none text-center text-white">
           Powered by SUI
         </p>
-        <p className="mt-36 text-xl font-medium leading-none text-white max-md:mt-10">
+        <p className="arbutus-regular  mt-36 text-xl font-medium leading-none text-white max-md:mt-10">
           OFFICIAL LINKS:
         </p>
         <div className="flex gap-3 mt-4 ml-8 w-64 max-w-full flex justify-center items-center">

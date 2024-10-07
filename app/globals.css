@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@import url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap');
+
+
+.arbutus-regular {
+    font-family: "Arbutus", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

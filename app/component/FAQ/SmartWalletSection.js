@@ -2,7 +2,7 @@ import React from "react";
 
 function SmartWalletSection() {
   return (
-    <section className="self-stretch mt-32 max-md:mt-10 max-md:max-w-full">
+    <section className="arbutus-regular  self-stretch mt-32 max-md:mt-10 max-md:max-w-full">
       <h2 className="text-5xl leading-none text-gray-900 max-md:max-w-full max-md:text-4xl">
         What's a Smart Wallet?
       </h2>

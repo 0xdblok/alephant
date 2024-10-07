@@ -21,7 +21,7 @@ function FAQ() {
   ];
 
   return (
-    <main className="flex flex-col items-center px-20 pt-14 pb-48 bg-white max-md:px-5 max-md:pb-24">
+    <main className=" arbutus-regular  flex flex-col items-center px-20 pt-14 pb-48 bg-white max-md:px-5 max-md:pb-24">
       <section className="flex flex-col items-start max-w-full w-[1021px]">
         <h1 className="text-6xl leading-none text-gray-900 max-md:text-4xl">
           FAQ

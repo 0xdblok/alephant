@@ -2,12 +2,12 @@ import React from "react";
 
 function TextContent() {
   return (
-    <section className="flex flex-col w-[45%] max-md:ml-0 max-md:w-full">
+    <section className="arbutus-regular  flex flex-col w-[45%] max-md:ml-0 max-md:w-full">
       <div className="flex flex-col items-start self-stretch my-auto w-full max-md:mt-10 max-md:max-w-full">
-        <h1 className="text-6xl leading-none text-gray-900 max-md:text-4xl">
+        <h1 className="  text-6xl leading-none text-gray-900 max-md:text-4xl">
           How to buy
         </h1>
-        <p className="self-stretch mt-9 text-xl leading-7 text-gray-900 max-md:max-w-full">
+        <p className="arbutus-regular self-stretch mt-9 text-xl leading-7 text-gray-900 max-md:max-w-full">
           This video will show you how to buy directly <br /> here on the site
           through the <span className="font-bold">SUI Wallet</span> <br />{" "}
           <span className="font-bold"></span>. You can also buy on{" "}
