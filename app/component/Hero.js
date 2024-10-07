@@ -26,26 +26,7 @@ export default function Hero() {
           </div>
         </nav>
         <div className="flex flex-wrap gap-5 justify-between self-stretch mt-5 w-full max-md:mr-2.5 max-md:max-w-full">
-          <img
-            loading="lazy"
-            src="https://cdn.builder.io/api/v1/image/assets/TEMP/94c6dbc5f9baba8c23c4a2b8636040db532890572fe38556513799d2a8d74de8?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3"
-            className="object-contain shrink-0 w-7 aspect-square"
-            alt="Logo"
-          />
-          <div className="flex gap-2.5 self-start">
-            <img
-              loading="lazy"
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/d603980e0e9e0010a5e355520c9d1d64f59db6f63feeb9f7bbb734fc875fae9b?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3"
-              className="object-contain shrink-0 my-auto w-5 aspect-[1.18]"
-              alt="Social icon 1"
-            />
-            <img
-              loading="lazy"
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/0992f5c1e373805fc898e6107f00b8ccd01ce9a36ee2a340cfc6ae6ef2de6684?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3"
-              className="object-contain shrink-0 aspect-[1.04] w-[25px]"
-              alt="Social icon 2"
-            />
-          </div>
+          <div className="flex gap-2.5 self-start"></div>
         </div>
         <div className="flex gap-5 max-w-full w-[299px]">
           <div className="flex flex-col">
@@ -56,21 +37,7 @@ export default function Hero() {
               height={152}
               className="object-contain self-end max-w-full aspect-[1.52] w-[102px]"
             />
-
-            <img
-              loading="lazy"
-              src=""
-              className="object-contain mt-5 rounded-xl aspect-[1.04] w-[26px]"
-              alt="Decorative icon"
-            />
           </div>
-          <Image
-            src={sui}
-            alt="Decorative element"
-            width={200}
-            height={20}
-            className="object-contain shrink-0 self-end mt-24 w-[200px] aspect-[3.8] max-md:mt-10"
-          />
         </div>
         <h1 className="mt-11 text-9xl text-center text-white leading-[128px] max-md:mt-10 max-md:max-w-full max-md:text-4xl max-md:leading-[49px]">
           ALEPHANT <br /> on SUI
